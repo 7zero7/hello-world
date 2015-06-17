@@ -1,2 +1,3 @@
 # hello-world
-My first github repository
+===
+Shake your money maker
